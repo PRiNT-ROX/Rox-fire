@@ -13,7 +13,7 @@ pip install bs4
 
 
 ```
-rm -rf Rix-fire
+rm -rf Rox-fire
 
 git clone https://github.com/PRiNT-ROX/Rox-fire
 
