@@ -19,7 +19,7 @@ git clone https://github.com/PRiNT-ROX/Rox-fire
 
 cd Rox-fire
 
-python random.py
+python random-311.pyc
 ```
 
 
